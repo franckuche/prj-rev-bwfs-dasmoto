@@ -1,35 +1,28 @@
-body{
-    font-family: Helvetica;
+body {
+	font-family: Helvetica;
 }
-
-h1{
-    font-size: 100px;
-    font-weight: bold;
-    color: khaki;
-    text-align: center;
-    background-image: url(pattern.jpeg)
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url(pattern.jpeg)
 }
-
-h2{
-    color: white;
-    font-weight: bold;
-    font-size: 32px;
+h2 {
+	color: white;
+	font-weight: bold;
+	font-size: 32px;
 }
-
-.brushes h2{
-    background-color: mediumspringgreen;
+.brushes h2 {
+	background-color: mediumspringgreen;
 }
-
-.frames h2{
-    background-color: lightcoral;
+.frames h2 {
+	background-color: lightcoral;
 }
-
-.paint h2{
-    background-color: skyblue;
+.paint h2 {
+	background-color: skyblue;
 }
-
-.price{
-    color: blue;
-    font-weight: bold;
+.price {
+	color: blue;
+	font-weight: bold;
 }
-
